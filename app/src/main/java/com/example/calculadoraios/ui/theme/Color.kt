@@ -1,4 +1,4 @@
-package com.example.miprimerapp.ui.theme
+package com.example.calculadoraios.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
